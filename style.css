@@ -1,6 +1,6 @@
 body {
     background-color: deeppink;
-    color: forestgreen;
+    color: rgba(0, 255, 225, 0.776);
     margin-bottom: 100px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
@@ -8,7 +8,7 @@ body {
     header {
         border-bottom: solid 2px;
         text-align: center;
-        font-size: medium;
+        font-size: 32px;
         padding: 10px;
-        background-color:gray;
+        background-color:aliceblue
     }
