@@ -1,0 +1,14 @@
+body {
+    background-color: deeppink;
+    color: forestgreen;
+    margin-bottom: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+    header {
+        border-bottom: solid 2px;
+        text-align: center;
+        font-size: medium;
+        padding: 10px;
+        background-color:gray;
+    }
